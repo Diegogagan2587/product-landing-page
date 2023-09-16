@@ -35,7 +35,7 @@
 > Describe your project in 1 or 2 sentences.
 
 **Product Landing Page** is a project to market a product, in this case `Original Trombones`, it was builded for putting in practice HTML and CSS skills by creating an static site that include navigation, video, and a simple dummy form for submitting customer email. builded with planing HTML and CSS.
-This Project was Created originaly on 2020 but I have decided to move it to its own repo here.
+This Project was Created originaly on 2020 but I have decided to move it to its own repo here. You can open the 
 [Original Implementation here](https://github.com/Diegogagan2587/Diegogagan2587.github.io/tree/master/product-landing-page)
 
 ## 🛠 Built With <a name="built-with"></a>
